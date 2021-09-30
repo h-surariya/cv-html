@@ -1,0 +1,100 @@
+body{
+  margin: 0px;
+  text-align: center;
+  font-family: cursive;
+  background: #f7f3e9
+}
+
+div{
+  background-color: #f7f3e9;
+  margin: 0;
+
+}
+.bottom{
+  margin: 0;
+}
+.fill{
+  height: 35px;
+  width: 250px;
+  background-color: #f7f3e9;
+  position: absolute;
+  top: 1246px;
+  left: 660px;
+}
+
+h1{
+  margin: 0px;
+  display: block;
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+  color: #132c33;
+  padding-bottom: 1em;
+}
+h3
+a:active{
+  color: #56776c;
+}
+
+hr{
+  border-style: dotted;
+  border-width: 0 0 7px 0;
+  width: 6%;
+  color: #d8e3e7;
+  margin: 0 auto 0 auto;
+  background-color: #f7f3e9;
+}
+
+a:hover{
+  color: red;
+}
+{
+  margin: 0;
+}
+
+.name{
+
+  position: relative;
+  top: 150px;
+  left: 10px;
+
+
+}
+.me{
+  border-radius: 50%;
+}
+p{
+  margin: 0;
+}
+.pe{
+  margin: 0;
+  position: relative;
+  top: 165px;
+  left: 10px;
+  font-family: 'Sacramento', cursive;
+  font-size: 58px;
+}
+.city{
+  position: relative;
+  top: -100px;
+  left: auto;
+}
+.clouds-down{
+  max-width: 25%;
+  height: auto;
+  position: absolute;
+  top: 240px;
+  left: 180px;
+
+}
+.clouds-up{
+  max-width: 25%;
+  height: auto;
+  position: absolute;
+  top: 20px;
+  right: 180px;
+
+}
+.short{
+  width: 10%;
+  height: auto;
+}
